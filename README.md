@@ -1,5 +1,5 @@
 
-# Monitoramento de Incendio
+# Monitoramento de Incêndio
 PROJETO REALIZADO EM 2023
 
 Utilizando as seguintes linguagens: C/C++, Pythons, JS. O site criado não está disponibilizado nos documentos apenas a parte de programação :).
